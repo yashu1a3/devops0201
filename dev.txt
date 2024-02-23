@@ -9,4 +9,7 @@ i am using git pull
 
 i am using fetch and full
 
+overwite the object on github
+
+
 
