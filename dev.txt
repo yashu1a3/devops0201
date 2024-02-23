@@ -7,3 +7,6 @@ kchsjkask
 sksajl
 i am using git pull
 
+i am using fetch and full
+
+
