@@ -10,3 +10,5 @@ sksajl
 i am using git pull
 
 >>>>>>> d6586fd1edc8b3917950d1fb24b71c59493c6074
+errors fixing
+
