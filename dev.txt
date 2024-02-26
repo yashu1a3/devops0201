@@ -1,16 +1,4 @@
 harshak
 reddy
-adwait
-bye
-jadhkjahd
-kchsjkask
-sksajl
-i am using git pull
-
-i am using fetch and full
-
-place the object
-overwite the object on github
-
-
-
+i am working branch
+to show the multipule errors
