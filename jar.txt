@@ -3,4 +3,5 @@ i am  lising devops classes
 create new file in the VSC
 I am a good listner
 i am usung branch command
-this resolve conflicts  command
+this not commit to the git
+
